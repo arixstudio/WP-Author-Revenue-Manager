@@ -1,0 +1,76 @@
+
+@font-face {
+	font-family: 'dana';
+	font-style: normal;
+	font-weight: normal;
+	src: url('eot/dana-regular.eot');
+	src: url('eot/dana-regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/dana-regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/dana-regular.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+	font-family: 'dana';
+	font-style: italic;
+	font-weight: normal;
+	src: url('eot/dana-regularitalic.eot');
+	src: url('eot/dana-regularitalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/dana-regularitalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/dana-regularitalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+	font-family: 'dana';
+	font-style: normal;
+	font-weight: bold;
+	src: url('eot/dana-bold.eot');
+	src: url('eot/dana-bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/dana-bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/dana-bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+	font-family: 'dana-num';
+	font-style: normal;
+	font-weight: normal;
+	src: url('eot/dana-fanum-regular.eot');
+	src: url('eot/dana-fanum-regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/dana-fanum-regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/dana-fanum-regular.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+	font-family: 'dana-num';
+	font-style: italic;
+	font-weight: normal;
+	src: url('eot/dana-fanum-regularitalic.eot');
+	src: url('eot/dana-fanum-regularitalic.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/dana-fanum-regularitalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/dana-fanum-regularitalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+	font-family: 'dana-num';
+	font-style: normal;
+	font-weight: bold;
+	src: url('eot/dana-fanum-bold.eot');
+	src: url('eot/dana-fanum-bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('woff2/dana-fanum-bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('woff/dana-fanum-bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+.dana {
+	font-family: 'dana';
+}
+
+.dana-num {
+	font-family: 'dana-num';
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
