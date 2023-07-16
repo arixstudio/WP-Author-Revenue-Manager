@@ -1,0 +1,942 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arm\n"
+"POT-Creation-Date: 2022-04-17 02:20+0430\n"
+"PO-Revision-Date: 2022-04-17 02:21+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: author-revenue-manager.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: author-revenue-manager.php:219
+msgid "This field is required."
+msgstr "این فیلد لازم است."
+
+#: author-revenue-manager.php:220
+msgid "Please enter a valid number."
+msgstr "لطفاً عدد وارد نمایید."
+
+#: author-revenue-manager.php:221
+msgid "Please select valid input file format."
+msgstr "لطفاً یک فایل با فرمت قابل قبول انتخاب نمایید."
+
+#: author-revenue-manager.php:222 views/admin/page-settings.php:226
+msgid "Required"
+msgstr "لازم"
+
+#: author-revenue-manager.php:223 views/admin/page-settings.php:211
+msgid "Slug"
+msgstr "نامک"
+
+#: author-revenue-manager.php:224 views/admin/page-settings.php:215
+msgid "English title"
+msgstr "عنوان انگلیسی"
+
+#: author-revenue-manager.php:225 views/admin/page-settings.php:219
+msgid "Persian title"
+msgstr "عنوان فارسی"
+
+#: author-revenue-manager.php:276 views/admin/page-revenue-receipts.php:69
+msgid "Revenue receipts"
+msgstr "فیش ها"
+
+#: author-revenue-manager.php:277 includes/functions.php:1650
+msgid "Revenues"
+msgstr "درآمد ها"
+
+#: author-revenue-manager.php:287 author-revenue-manager.php:288
+#: views/admin/page-month-revenues.php:86
+msgid "Month's revenues"
+msgstr "درآمد های ماه جاری"
+
+#: author-revenue-manager.php:297 author-revenue-manager.php:298
+#: views/admin/page-leaderboard.php:111
+msgid "Leaderboard"
+msgstr "لیدربورد"
+
+#: author-revenue-manager.php:307 author-revenue-manager.php:308
+#: views/admin/page-authors.php:62
+msgid "Authors"
+msgstr "نویسندگان"
+
+#: author-revenue-manager.php:317 author-revenue-manager.php:318
+#: views/admin/page-bonuses.php:108 views/admin/page-month-revenues.php:40
+#: views/admin/page-revenue-receipts.php:39
+msgid "Bonuses"
+msgstr "پاداش ها"
+
+#: author-revenue-manager.php:327 author-revenue-manager.php:328
+#: views/admin/page-month-revenues.php:39 views/admin/page-penalties.php:109
+msgid "Penalties"
+msgstr "کسورات"
+
+#: author-revenue-manager.php:337 author-revenue-manager.php:338
+#: views/admin/page-transactions.php:71
+msgid "Transactions"
+msgstr "تراکنش ها"
+
+#: author-revenue-manager.php:347 author-revenue-manager.php:348
+#: views/admin/page-settings.php:131
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: author-revenue-manager.php:359 author-revenue-manager.php:360
+msgid "Profile"
+msgstr "پروفایل"
+
+#: includes/crud-functions.php:39 includes/crud-functions.php:97
+msgid "No data saved"
+msgstr "داده ای ذخیره نشد."
+
+#: includes/crud-functions.php:113
+msgid "Update failed."
+msgstr "بروز رسانی ناموفق بود."
+
+#: includes/crud-functions.php:140
+msgid "No data updated."
+msgstr "داده ای بروز نشد."
+
+#: includes/crud-functions.php:157 includes/crud-functions.php:200
+msgid "Delete failed."
+msgstr "حذف ناموفق بود."
+
+#: includes/crud-functions.php:180 includes/crud-functions.php:280
+msgid "No data deleted."
+msgstr "داده ای حذف نشد."
+
+#: includes/crud-functions.php:343 includes/crud-functions.php:485
+#: includes/crud-functions.php:599
+msgid "The data format is not specified correctly."
+msgstr "فرمت اطلاعات نادرست است."
+
+#: includes/crud-functions.php:423 includes/crud-functions.php:556
+#: includes/crud-functions.php:648 includes/crud-functions.php:677
+#: includes/functions.php:1001 views/admin/page-settings.php:239
+msgid "No data found."
+msgstr "داده ای جهت نمایش وجود ندارد."
+
+#: includes/functions.php:110 views/admin/page-revenue-receipt.php:125
+#: views/admin/page-transactions.php:45
+msgid "Revenue number"
+msgstr "شماره فیش"
+
+#: includes/functions.php:125 includes/functions.php:2381
+#: includes/functions.php:2480 views/admin/page-bonuses.php:50
+#: views/admin/page-bonuses.php:141 views/admin/page-bonuses.php:143
+#: views/admin/page-month-revenues.php:36 views/admin/page-penalties.php:50
+#: views/admin/page-penalties.php:142 views/admin/page-penalties.php:144
+#: views/admin/page-revenue-receipts.php:35
+#: views/admin/page-transactions.php:43
+#: views/admin/widgets/authors-performance-of-month.php:25
+msgid "Author"
+msgstr "نویسنده"
+
+#: includes/functions.php:140 views/admin/page-bonuses.php:55
+#: views/admin/page-penalties.php:55 views/admin/page-revenue-receipts.php:42
+msgid "Status"
+msgstr "وضعیت"
+
+#: includes/functions.php:155
+msgid "Month"
+msgstr "ماه"
+
+#: includes/functions.php:167
+msgid "Search"
+msgstr "جستجو"
+
+#: includes/functions.php:175
+msgid "Start from"
+msgstr "از تاریخ"
+
+#: includes/functions.php:178
+msgid "End from"
+msgstr "تا تاریخ"
+
+#: includes/functions.php:183
+msgid "Apply"
+msgstr "اعمال"
+
+#: includes/functions.php:1043
+msgid "DELETED"
+msgstr "حذف شده"
+
+#: includes/functions.php:1224
+msgid "United States (US) dollar"
+msgstr "دلار امریکا"
+
+#: includes/functions.php:1228
+msgid "Euro"
+msgstr "یورو"
+
+#: includes/functions.php:1232
+msgid "Iranian Rial"
+msgstr "ریال ایران"
+
+#: includes/functions.php:1233
+msgid "IRR"
+msgstr "ریال"
+
+#: includes/functions.php:1236
+msgid "Iranian Toman"
+msgstr "تومان ایران"
+
+#: includes/functions.php:1237
+msgid "IRT"
+msgstr "تومان"
+
+#: includes/functions.php:1323
+msgid "High performance"
+msgstr "راندمان بالا"
+
+#: includes/functions.php:1323
+msgid "Low performance"
+msgstr "راندمان پایین"
+
+#: includes/functions.php:1630
+msgid "Total payable of the month"
+msgstr "کل درآمد قابل پرداخت ماه"
+
+#: includes/functions.php:1634
+msgid "Authors' performance / Words"
+msgstr "راندمان نویسنده / کلمه"
+
+#: includes/functions.php:1638
+msgid "Top 10 authors of month / Words"
+msgstr "10 نفر برتر ماه / کلمه"
+
+#: includes/functions.php:1642
+msgid "Monthly leaderboard / Words"
+msgstr "لیدربورد ماهیانه / کلمه"
+
+#: includes/functions.php:1646
+msgid "My performance / Previous and current month"
+msgstr "راندمان من / ماه گذشته و جاری"
+
+#: includes/functions.php:1654
+msgid "Top 3 authors of month / Words"
+msgstr "3 نفر برتر ماه / کلمه"
+
+#: includes/functions.php:1905
+msgid "Extra words written"
+msgstr "کلمات نوشته شده اضافه"
+
+#: includes/functions.php:1905
+msgid "Less words written"
+msgstr "تعداد کم کلمات"
+
+#: includes/functions.php:1909
+#, php-format
+msgid "%s amount"
+msgstr "مبلغ %s"
+
+#: includes/functions.php:1960
+msgid "Previous"
+msgstr "قبلی"
+
+#: includes/functions.php:1961
+msgid "Next"
+msgstr "بعدی"
+
+#: includes/functions.php:2160 includes/functions.php:2381
+#: includes/functions.php:2386 includes/functions.php:2391
+#: includes/functions.php:2435 includes/functions.php:2480
+#: includes/functions.php:2485 includes/functions.php:2490
+#: includes/functions.php:2577 includes/functions.php:2581
+#: views/admin/page-author-accounting.php:37
+#: views/admin/page-author-accounting.php:42
+#: views/admin/page-author-accounting.php:52
+#: views/admin/page-author-accounting.php:57
+#: views/admin/page-author-contact.php:43
+#: views/admin/page-author-general.php:27
+#: views/admin/page-author-general.php:31
+#: views/admin/page-author-general.php:35
+#: views/admin/page-author-general.php:63 views/admin/page-settings.php:56
+#: views/admin/page-settings.php:61 views/admin/page-settings.php:66
+#: views/admin/page-settings.php:71 views/admin/page-settings.php:79
+#: views/admin/page-settings.php:89
+#, php-format
+msgid "%s is required."
+msgstr "%s لازم است."
+
+#: includes/functions.php:2160 includes/functions.php:2577
+msgid "File"
+msgstr "فایل"
+
+#: includes/functions.php:2164
+msgid "Please select an image."
+msgstr "لطف یک تصویر انتخاب نمایید. "
+
+#: includes/functions.php:2168
+msgid "Sorry, file already exists."
+msgstr "فایل از پیش موجود است."
+
+#: includes/functions.php:2172
+msgid "Sorry, your file is too large."
+msgstr "حجم فایل انتخابی بیش از حد مجاز است."
+
+#: includes/functions.php:2176
+msgid "Sorry, only JPG, JPEG and PNG files are allowed."
+msgstr "تنها فرمت های JPG، JPEG، PNG مورد قبول هستند."
+
+#: includes/functions.php:2188
+msgid "Sorry, there was an error uploading your file."
+msgstr "بارگذاری ناموفق بود."
+
+#: includes/functions.php:2289
+msgid "Farvardin"
+msgstr "فروردین"
+
+#: includes/functions.php:2290
+msgid "Ordibehesht"
+msgstr "اردیبهشت"
+
+#: includes/functions.php:2291
+msgid "Khordad"
+msgstr "خرداد"
+
+#: includes/functions.php:2292
+msgid "Tir"
+msgstr "تیر"
+
+#: includes/functions.php:2293
+msgid "Mordad"
+msgstr "مرداد"
+
+#: includes/functions.php:2294
+msgid "Shahrivar"
+msgstr "شهریور"
+
+#: includes/functions.php:2295
+msgid "Mehr"
+msgstr "مهر"
+
+#: includes/functions.php:2296
+msgid "Aban"
+msgstr "آبان"
+
+#: includes/functions.php:2297
+msgid "Azar"
+msgstr "آذر"
+
+#: includes/functions.php:2298
+msgid "Dey"
+msgstr "دی"
+
+#: includes/functions.php:2299
+msgid "Bahman"
+msgstr "بهمن"
+
+#: includes/functions.php:2300
+msgid "Esfand"
+msgstr "اسفند"
+
+#: includes/functions.php:2373 includes/functions.php:2427
+#: includes/functions.php:2472 includes/functions.php:2526
+#: includes/functions.php:2569 views/admin/page-author-accounting.php:23
+#: views/admin/page-author-contact.php:38
+#: views/admin/page-author-general.php:23 views/admin/page-settings.php:50
+msgid "Security check failure."
+msgstr "بررسی امنیتی ناموفق بود."
+
+#: includes/functions.php:2377 includes/functions.php:2431
+#: includes/functions.php:2476 includes/functions.php:2530
+#: includes/functions.php:2573
+msgid "You are not allowed to perform this action."
+msgstr "متاسفانه مجوز لازم جهت انجام این عملیات را ندارید."
+
+#: includes/functions.php:2386 includes/functions.php:2485
+#: views/admin/page-bonuses.php:51 views/admin/page-bonuses.php:156
+#: views/admin/page-penalties.php:51 views/admin/page-penalties.php:157
+#: views/admin/page-revenue-receipt.php:129 views/admin/page-transaction.php:47
+#: views/admin/page-transactions.php:44
+msgid "Amount"
+msgstr "مبلغ"
+
+#: includes/functions.php:2391 includes/functions.php:2490
+#: views/admin/page-bonuses.php:52 views/admin/page-bonuses.php:162
+#: views/admin/page-penalties.php:52 views/admin/page-penalties.php:163
+msgid "Reason"
+msgstr "دلیل"
+
+#: includes/functions.php:2407
+msgid "Bonus has been submitted."
+msgstr "پاداش ثبت شد."
+
+#: includes/functions.php:2409 includes/functions.php:2455
+#: includes/functions.php:2508 includes/functions.php:2552
+#: includes/functions.php:2609
+msgid "Operation was unsuccesful. Please try again."
+msgstr "عملیات ناموفق بود. لطفاً دوباره تلاش نمایید. "
+
+#: includes/functions.php:2435
+msgid "Bonus id"
+msgstr "شناسه پاداش"
+
+#: includes/functions.php:2443 includes/functions.php:2540
+#, php-format
+msgid "%s does not exist."
+msgstr "%s وجود ندارد."
+
+#: includes/functions.php:2443 includes/functions.php:2447
+#: views/admin/page-bonus.php:35
+msgid "Bonus"
+msgstr "پاداش"
+
+#: includes/functions.php:2447 includes/functions.php:2544
+#, php-format
+msgid "This %s is accounted and can not get repealed."
+msgstr "این %s محاسبه شده و غیر قابل لغو است."
+
+#: includes/functions.php:2453
+msgid "Bonus has been repealed."
+msgstr "پاداش لغو شد."
+
+#: includes/functions.php:2506
+msgid "Penalty has been submitted."
+msgstr "جریمه با موفقیت ثبت شد."
+
+#: includes/functions.php:2540 includes/functions.php:2544
+#: views/admin/page-penalty.php:35
+msgid "Penalty"
+msgstr "جریمه"
+
+#: includes/functions.php:2550
+msgid "Penalty has been repealed."
+msgstr "جریمه لغو شد."
+
+#: includes/functions.php:2581 views/admin/page-transaction.php:51
+msgid "Method"
+msgstr "روش"
+
+#: includes/functions.php:2615
+msgid "Transaction has been submitted."
+msgstr "تراکنش با موفقیت ثبت شد."
+
+#: language/strings.php:5
+msgid "Paid"
+msgstr "پرداخت شده"
+
+#: language/strings.php:6
+msgid "Unpaid"
+msgstr "پرداخت نشده"
+
+#: language/strings.php:7 views/admin/page-bonus.php:46
+#: views/admin/page-bonuses.php:75 views/admin/page-penalties.php:75
+#: views/admin/page-penalty.php:46
+msgid "Accounted"
+msgstr "حساب شده"
+
+#: language/strings.php:8 views/admin/page-bonus.php:46
+#: views/admin/page-bonuses.php:75 views/admin/page-penalties.php:75
+#: views/admin/page-penalty.php:46
+msgid "Not accounted"
+msgstr "حساب نشده"
+
+#: views/admin/page-author-accounting.php:17
+#: views/admin/page-author-contact.php:32
+#: views/admin/page-author-general.php:17
+msgid "Information updated successfully."
+msgstr "اطلاعات با موفقیت ذخیره شد."
+
+#: views/admin/page-author-accounting.php:37
+#: views/admin/page-author-accounting.php:92
+msgid "Card number"
+msgstr "شماره کارت"
+
+#: views/admin/page-author-accounting.php:42
+#: views/admin/page-author-accounting.php:96
+msgid "Sheba number"
+msgstr "شماره شبا"
+
+#: views/admin/page-author-accounting.php:52
+#: views/admin/page-author-accounting.php:101
+msgid "SWIFT / BIC"
+msgstr ""
+
+#: views/admin/page-author-accounting.php:57
+#: views/admin/page-author-accounting.php:105
+msgid "IBAN"
+msgstr ""
+
+#: views/admin/page-author-accounting.php:83 views/admin/page-authors.php:30
+#: views/admin/page-month-revenues.php:38
+#: views/admin/page-revenue-receipt.php:72
+#: views/admin/page-revenue-receipts.php:37
+msgid "Revenue per word"
+msgstr "درآمد به ازای هر کلمه"
+
+#: views/admin/page-author-accounting.php:87
+msgid "Minimum words per month"
+msgstr "حداقل تعداد کلمات لازم"
+
+#: views/admin/page-author-accounting.php:112
+#: views/admin/page-author-contact.php:83
+#: views/admin/page-author-general.php:148
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: views/admin/page-author-contact.php:14
+#: views/admin/page-author-contact.php:92 views/admin/page-settings.php:201
+msgid "Add contact option"
+msgstr "افزودن روش تماس"
+
+#: views/admin/page-author-contact.php:43
+msgid "Mobile number"
+msgstr "شماره موبایل"
+
+#: views/admin/page-author-contact.php:102
+msgid "Contact option"
+msgstr "روش تماس"
+
+#: views/admin/page-author-contact.php:104
+#: views/admin/page-revenue-receipt.php:136 views/admin/page-settings.php:156
+#: views/admin/page-settings.php:252 views/admin/page-settings.php:269
+msgid "Select"
+msgstr "انتخاب"
+
+#: views/admin/page-author-contact.php:118 views/admin/page-bonuses.php:169
+#: views/admin/page-penalties.php:170 views/admin/page-revenue-receipt.php:159
+msgid "Cancel"
+msgstr "انصراف"
+
+#: views/admin/page-author-contact.php:119
+msgid "Add"
+msgstr "افزودن"
+
+#: views/admin/page-author-general.php:27
+#: views/admin/page-author-general.php:98
+msgid "First name"
+msgstr "نام"
+
+#: views/admin/page-author-general.php:31
+#: views/admin/page-author-general.php:102
+msgid "Last name"
+msgstr "نام خانوادگی"
+
+#: views/admin/page-author-general.php:35
+#: views/admin/page-author-general.php:106
+msgid "Email"
+msgstr "ایمیل"
+
+#: views/admin/page-author-general.php:63
+#: views/admin/page-author-general.php:122
+msgid "Locale"
+msgstr "زبان"
+
+#: views/admin/page-author-general.php:110
+msgid "Date of birth"
+msgstr "تاریخ تولد"
+
+#: views/admin/page-author-general.php:117
+msgid "Recommender"
+msgstr "معرف"
+
+#: views/admin/page-author-general.php:124
+msgid "Site's default language"
+msgstr "زبان پیشفرض سایت"
+
+#: views/admin/page-author-general.php:125 views/admin/page-settings.php:19
+msgid "English"
+msgstr "انگلیسی"
+
+#: views/admin/page-author-general.php:126 views/admin/page-settings.php:24
+msgid "Persian"
+msgstr "فارسی"
+
+#: views/admin/page-author-general.php:132
+msgid "Background"
+msgstr "سوابق کاری"
+
+#: views/admin/page-author-general.php:136
+msgid "Scope of profession"
+msgstr "زمینه تخصص"
+
+#: views/admin/page-author-general.php:142
+msgid "Address"
+msgstr "آدرس"
+
+#: views/admin/page-author.php:23
+msgid "General info"
+msgstr "مشخصات جامع"
+
+#: views/admin/page-author.php:28
+msgid "Accounting"
+msgstr "حسابداری"
+
+#: views/admin/page-author.php:33 views/admin/page-settings.php:34
+msgid "Contact options"
+msgstr "روش های تماس"
+
+#: views/admin/page-author.php:50 views/admin/page-authors.php:31
+#: views/admin/page-leaderboard.php:87
+msgid "Registered at"
+msgstr "تاریخ عضویت"
+
+#: views/admin/page-authors.php:29 views/admin/page-leaderboard.php:86
+msgid "Full name"
+msgstr "نام و نام خانوادگی"
+
+#: views/admin/page-authors.php:32
+msgid "Total revenues"
+msgstr "کل درآمد"
+
+#: views/admin/page-authors.php:33 views/admin/page-bonuses.php:56
+#: views/admin/page-leaderboard.php:89 views/admin/page-penalties.php:56
+#: views/admin/page-revenue-receipts.php:43
+#: views/admin/page-transactions.php:48
+msgid "Actions"
+msgstr "..."
+
+#: views/admin/page-authors.php:48 views/admin/page-bonuses.php:65
+#: views/admin/page-leaderboard.php:101 views/admin/page-penalties.php:65
+#: views/admin/page-revenue-receipts.php:60
+#: views/admin/page-transactions.php:62
+msgid "View"
+msgstr "مشاهده"
+
+#: views/admin/page-authors.php:54
+msgid "New Author"
+msgstr "نویسنده جدید"
+
+#: views/admin/page-bonuses.php:16 views/admin/page-bonuses.php:130
+msgid "Submit Bonus"
+msgstr "ثبت پاداش"
+
+#: views/admin/page-bonuses.php:53 views/admin/page-penalties.php:53
+msgid "Type"
+msgstr "نوع"
+
+#: views/admin/page-bonuses.php:54 views/admin/page-penalties.php:54
+msgid "Issue Date"
+msgstr "تاریخ صدور"
+
+#: views/admin/page-bonuses.php:67 views/admin/page-penalties.php:67
+msgid "Repeal"
+msgstr "لغو"
+
+#: views/admin/page-bonuses.php:73 views/admin/page-penalties.php:73
+msgid "Auto generated"
+msgstr "خودکار"
+
+#: views/admin/page-bonuses.php:73 views/admin/page-penalties.php:73
+msgid "Custom"
+msgstr "اختصاصی"
+
+#: views/admin/page-bonuses.php:170 views/admin/page-penalties.php:171
+#: views/admin/page-revenue-receipt.php:160
+msgid "Submit"
+msgstr "ثبت"
+
+#: views/admin/page-bonuses.php:182
+msgid "Repeal bonus"
+msgstr "لغو پاداش"
+
+#: views/admin/page-bonuses.php:186 views/admin/page-penalties.php:187
+msgid "Are you sure?"
+msgstr "از انجام این عمل اطمینان دارید؟"
+
+#: views/admin/page-bonuses.php:189 views/admin/page-penalties.php:190
+msgid "Nope"
+msgstr "بیخیال"
+
+#: views/admin/page-bonuses.php:190 views/admin/page-penalties.php:191
+msgid "Just do it"
+msgstr "انجامش بده"
+
+#: views/admin/page-leaderboard.php:85
+msgid "Rank"
+msgstr "رتبه"
+
+#: views/admin/page-leaderboard.php:88 views/admin/page-revenue-receipt.php:76
+msgid "Words written"
+msgstr "کلمات نوشته شده"
+
+#: views/admin/page-month-revenues.php:37
+#: views/admin/page-revenue-receipts.php:36
+msgid "Written words"
+msgstr "کلمات نوشته شده"
+
+#: views/admin/page-month-revenues.php:41
+#: views/admin/page-revenue-receipts.php:40
+msgid "Payable amount"
+msgstr "قابل پرداخت"
+
+#: views/admin/page-penalties.php:16 views/admin/page-penalties.php:131
+msgid "Submit Penalty"
+msgstr "ثبت جریمه"
+
+#: views/admin/page-penalties.php:183
+msgid "Repeal penalty"
+msgstr "لغو جریمه"
+
+#: views/admin/page-revenue-receipt.php:46
+msgid "Revenue receipt"
+msgstr "فیش درآمد"
+
+#: views/admin/page-revenue-receipt.php:80
+msgid "Gross revenue"
+msgstr "درآمد ناخالص"
+
+#: views/admin/page-revenue-receipt.php:100
+msgid "Submit payment"
+msgstr "ثبت تراکنش"
+
+#: views/admin/page-revenue-receipt.php:103
+msgid "Payment detail"
+msgstr "جزئیات پرداخت"
+
+#: views/admin/page-revenue-receipt.php:107
+msgid "Total payable"
+msgstr "مبلغ قابل پرداخت"
+
+#: views/admin/page-revenue-receipt.php:118
+msgid "Submit Transaction"
+msgstr "ثبت تراکنش"
+
+#: views/admin/page-revenue-receipt.php:137
+msgid "Sheba"
+msgstr "شبا"
+
+#: views/admin/page-revenue-receipt.php:138
+msgid "Cart transfer"
+msgstr "واریز به کارت"
+
+#: views/admin/page-revenue-receipt.php:139
+msgid "Swift"
+msgstr ""
+
+#: views/admin/page-revenue-receipt.php:145 views/admin/page-transaction.php:38
+#: views/admin/page-transactions.php:46
+msgid "Ref number"
+msgstr "شماره رهگیری"
+
+#: views/admin/page-revenue-receipt.php:145
+msgid "Optional"
+msgstr "دلخواه"
+
+#: views/admin/page-revenue-receipt.php:151 views/admin/page-transaction.php:55
+msgid "Attachment"
+msgstr "ضمیمه"
+
+#: views/admin/page-revenue-receipt.php:153
+msgid "Allowed formats: .jpg, .jpeg, .png"
+msgstr "فرمت های قابل قبول: jpg, jpeg, png"
+
+#: views/admin/page-revenue-receipts.php:38
+msgid "Penalities"
+msgstr "کسورات"
+
+#: views/admin/page-revenue-receipts.php:41
+msgid "Issue date"
+msgstr "تاریخ صدور"
+
+#: views/admin/page-settings.php:29
+msgid "General"
+msgstr "عمومی"
+
+#: views/admin/page-settings.php:44
+msgid "Settings updated successfully."
+msgstr "تنظیمات با موفقیت ذخیره شد."
+
+#: views/admin/page-settings.php:56 views/admin/page-settings.php:248
+msgid "Currency"
+msgstr "واحد پول"
+
+#: views/admin/page-settings.php:61 views/admin/page-settings.php:265
+msgid "Currency position"
+msgstr "محل قرارگیری واحد پول"
+
+#: views/admin/page-settings.php:66 views/admin/page-settings.php:279
+msgid "Thousand seperator"
+msgstr "جدا کننده هزارگان"
+
+#: views/admin/page-settings.php:71 views/admin/page-settings.php:287
+msgid "Decimal seperator"
+msgstr "جدا کننده اعشار"
+
+#: views/admin/page-settings.php:79 views/admin/page-settings.php:303
+msgid "Default revenue per word"
+msgstr "درآمد پیشفرض به ازای هر کلمه"
+
+#: views/admin/page-settings.php:89
+msgid "Payday"
+msgstr "تاریخ پرداخت"
+
+#: views/admin/page-settings.php:119
+msgid "Default settings restored."
+msgstr "تنظیمات پیشفرض بازنشانی شد."
+
+#: views/admin/page-settings.php:151
+msgid "Payday (Day of month)"
+msgstr "روز واریز (روز چندم ماه)"
+
+#: views/admin/page-settings.php:152
+msgid "Day of month"
+msgstr "روز از ماه"
+
+#: views/admin/page-settings.php:165
+msgid "Auto bonus rules"
+msgstr "شرایط پاداش خودکار"
+
+#: views/admin/page-settings.php:173
+msgid "Auto penalty rules"
+msgstr "شرایط جریمه خودکار"
+
+#: views/admin/page-settings.php:181
+msgid "Help"
+msgstr "راهنمایی"
+
+#: views/admin/page-settings.php:184
+msgid "Ex: 1000,2000,1"
+msgstr ""
+
+#: views/admin/page-settings.php:185
+msgid "i.e: Range min, Range max, Percent"
+msgstr ""
+
+#: views/admin/page-settings.php:186
+msgid "Seperate rules with semicolon ( ; )"
+msgstr "هر شرط را با ( ; ) جدا نمایید."
+
+#: views/admin/page-settings.php:187
+msgid "Ex: 1000,2000,1;2000,3000,2"
+msgstr ""
+
+#: views/admin/page-settings.php:270
+msgid "Left"
+msgstr "چپ"
+
+#: views/admin/page-settings.php:271
+msgid "Right"
+msgstr "راست"
+
+#: views/admin/page-settings.php:272
+msgid "Left with space"
+msgstr "چپ با فاصله"
+
+#: views/admin/page-settings.php:273
+msgid "Right with space"
+msgstr "راست با فاصله"
+
+#: views/admin/page-settings.php:295
+msgid "Number of decimals"
+msgstr "تعداد اعشار"
+
+#: views/admin/page-settings.php:311
+msgid "Excluded words from counting"
+msgstr "کلمات معاف از شمارش"
+
+#: views/admin/page-settings.php:312
+msgid "Seperate words with comma (,)"
+msgstr "هر کلمه را با ( , ) جدا نمایید."
+
+#: views/admin/page-settings.php:321
+msgid "Update settings"
+msgstr "ذخیره سازی"
+
+#: views/admin/page-settings.php:322
+msgid "Restore defaults"
+msgstr "تنظیمات پیشفرض"
+
+#: views/admin/page-transaction.php:28
+msgid "Transaction"
+msgstr "تراکنش"
+
+#: views/admin/page-transactions.php:47
+msgid "Date"
+msgstr "تاریخ"
+
+#: views/admin/widgets/author-performance.php:46
+#: views/admin/widgets/authors-performance-of-month.php:26
+msgid "Previous month"
+msgstr "ماه قبل"
+
+#: views/admin/widgets/author-performance.php:46
+#: views/admin/widgets/author-performance.php:47
+msgid "words"
+msgstr "کلمه"
+
+#: views/admin/widgets/author-performance.php:47
+#: views/admin/widgets/authors-performance-of-month.php:27
+msgid "This month"
+msgstr "این ماه"
+
+#: views/admin/widgets/authors-performance-of-month.php:28
+msgid "Difference"
+msgstr "تفاضل"
+
+#: views/admin/widgets/authors-performance-of-month.php:29
+msgid "Performance"
+msgstr "راندمان"
+
+#. Plugin Name of the plugin/theme
+msgid "Author Revenue Management"
+msgstr "سیستم مدیریت درآمد نویسندگان"
+
+#. Plugin URI of the plugin/theme
+msgid "https://YOURDOMAIN.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Manage authors' revenues based on their performance"
+msgstr "مدیریت درآمد نویسندگان سایت بر اساس راندمان"
+
+#. Author of the plugin/theme
+msgid "arixstudio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.arixstudio.com/"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Persian title"
+#~ msgid "Persian Title"
+#~ msgstr "عنوان فارسی"
+
+#~ msgid "Playground"
+#~ msgstr "زمین بازی"
+
+#~ msgid "Euro (€)"
+#~ msgstr "یورو (€)"
+
+#~ msgid "Operation was unsuccesful."
+#~ msgstr "عملیات ناموفق بود."
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#~ msgid "Choose"
+#~ msgstr "انتخاب"
+
+#, fuzzy
+#~| msgid "Extra words written"
+#~ msgid "Total words written"
+#~ msgstr "کلمات نوشته شده اضافه"
+
+#~ msgid "Pay"
+#~ msgstr "پرداخت"
+
+#, fuzzy
+#~| msgid "Revenue receipt"
+#~ msgid "Receipt"
+#~ msgstr "فیش درآمد"
+
+#~ msgid "Net revenue"
+#~ msgstr "درآمد خالص"
+
+#~ msgid "unpaid"
+#~ msgstr "پرداخت نشده"
