@@ -1,0 +1,3 @@
+.datepicker-cell.selected, .datepicker-cell.selected:hover {
+    background-color: #333;
+}

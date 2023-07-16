@@ -1,0 +1,24 @@
+.mds-bs-persian-datetime-picker-popover * {
+    font-family: 'dana-num' !important;
+}
+
+.mds-bs-persian-datetime-picker-popover .table-striped > tbody > tr:nth-of-type(2n+1) {
+    --bs-table-accent-bg: #fff !important;
+}
+
+.mds-bs-dtp-container table table tbody.days td[data-day][data-today] {
+    background-color: #e8e8e8;
+    border-radius: 3px;
+}
+
+.mds-bs-dtp-container table table tbody.days td:hover {
+    background-color: #f9f9f9!important;
+}
+
+.mds-bs-dtp-container table table tbody.days td {
+    padding: 8px 5px;
+}
+.popover-header.text-center.p-1 {
+    background-color: #fff;
+    border: none;
+  }
