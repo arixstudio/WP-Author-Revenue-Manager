@@ -19,7 +19,7 @@ A WordPress plugin that tracks the effort of authors in creating posts and distr
 
 + Salaries
 - Counting the number of words written with full and accurate filtering
-- Calculate monthly salary with respect to the number received recorded in the profile
+- Calculate monthly salary with respect to the revenue defined in the profile
 - The ability to thoroughly filter salaries based on date, day, and author
 - The ability to record rewards and penalties along with the reason, which is displayed separately on the dashboard but is calculated in the total salary
 - The ability to calculate automatic rewards and penalties based on a percentage of the minimum number of words in a month (for example, if an author is supposed to write at least 10,000 words a month, with a 10% increase in writing, meaning at least 11,000 words, only extra words will be calculated with a predetermined bonus percentage) and similarly, if a percentage less than the intended number is written, a penalty will be applied to all written words
