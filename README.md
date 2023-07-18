@@ -1,11 +1,14 @@
-# WP-Author-Revenue-Manager
-A WordPress plugin that tracks the effort of authors in creating posts and distributes revenue accordingly.
+## WP-Author-Revenue-Manager
 
-+ The plugin is bilingual (Persian and English)
-+ Ability to select currency from a list
-+ Exclusive member list
+WP-Author-Revenue-Manager is a WordPress plugin that tracks the effort of authors in creating posts and distributes revenue accordingly.
 
-+ Author information
+### Features
+
+- Bilingual (Persian and English)
+- Ability to select currency from a list
+- Exclusive member list
+
+#### Author Information
 - Comprehensive account information
 - Address
 - Custom contact method
@@ -17,7 +20,7 @@ A WordPress plugin that tracks the effort of authors in creating posts and distr
 - The minimum number of words that should be written in a month
 - Determine whether the calculation of automatic fines is active or not (if the minimum number of words is not entered, the calculation of fines and rewards will also be inactive)
 
-+ Salaries
+#### Salaries
 - Counting the number of words written with full and accurate filtering
 - Calculate monthly salary with respect to the revenue defined in the profile
 - The ability to thoroughly filter salaries based on date, day, and author
@@ -29,15 +32,17 @@ A WordPress plugin that tracks the effort of authors in creating posts and distr
 - Specify the salary payment day in the month (for example, the 15th of each month will be settled) and all filters and calculations are based on this.
 - The ability to filter the salary list based on settled people
 
-+ Admin dashboard
+#### Admin Dashboard
 - Displaying the total salaries that will be paid this month
 - Displaying a performance list that shows writers' progress and regress in terms of the number of words compared to the previous month with green and red colors and + and - signs
 - Displaying the list of top writers of the month
 - Leaderboard for all the months that data is available for them
 
-+ Author dashboard
+#### Author Dashboard
 - The number of words written this month and the previous month (based on the set settlement day)
 - The total amount received so far this month and previous months, along with viewing the settlement status
 - Displaying the top three and the author's position and the number of words each has written
 - Leaderboard for all the months that data is available for them
 - The ability to view salary details on a separate page that includes a precise detail of the amount received last month, including the number of words written and separate and automatic rewards and penalties (the reason for receiving an automatic reward or penalty is not mentioned and only the extra or reduced amount received is separately displayed saying you were fined this amount or you received this reward)
+
+### [Preview in figma](https://www.figma.com/proto/08VRHT4daMRTmt2GCsuOCT/ARM-%5BWireframe%5D?type=design&node-id=0-1&t=IgiCMjhVRjcW39BL-0&scaling=min-zoom&page-id=0%3A1)
